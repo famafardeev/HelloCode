@@ -1,4 +1,4 @@
-﻿int namberA = 4;
-int namberB = 7;
-Console.WriteLine(namberA + namberB);
+﻿int numberA = 4;
+int numberB = 7;
+Console.WriteLine(numberA + numberB);
 
